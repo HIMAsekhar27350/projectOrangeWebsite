@@ -10,7 +10,9 @@
 * ChromeDriver compatible with the installed Chrome version.
 ## Project Setup
 1.Clone or download the repository to your local machine.
+
 2.Open the project in your preferred IDE.
+
 3.Ensure Maven dependencies are resolved by updating the project:
 ```
 mvn clean install
