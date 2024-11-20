@@ -57,8 +57,11 @@ nickname=(//input)[5]
   * Selenium WebDriver
   * WebDriverManager
   * TestNG
+
 **How to Run**
+
 1.Open the terminal in the project directory.
+
 2.Execute the TestNG suite using Maven:
 ```
 bash
